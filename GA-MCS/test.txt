@@ -1,1 +1,0 @@
-This is the demo code for the GA-MCS fast design framework.
